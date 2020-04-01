@@ -3,5 +3,5 @@ This repo includes the end of chapter solutions to Murach's Second Edition of My
 
 ## Questions I was unsure of
 1. Chapter 6 Question 7
-2. Chapter 7 Question 5 
+2. Chapter 7 Question 5 (solution doesn't actually run)
 3. Chapter 7 Question 8
