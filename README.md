@@ -9,4 +9,4 @@ This repo includes the end of chapter solutions to Murach's Second Edition of My
 
 
 ## Reflections
-I definitely want to revisit Chapter 7 because it shows how to write complex queries and answer more thoughtprovoking questions from tables. I may need to look for other resources to practice correlated queries etc.
+Chapter 7 shows how to write complex queries and answer more thoughtprovoking questions from tables. I may need to look for other resources to practice correlated queries.
